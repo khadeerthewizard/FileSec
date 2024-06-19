@@ -37,10 +37,10 @@ FileSec is a Python-based graphical user interface (GUI) application designed fo
 ##Usage
 
 1. **Run Application**
-```bash
-python app.py
-or
-python cli.py
+    ```bash
+    python app.py
+    or
+    python cli.py
 
 2. **Select the operation**
 3. **Receive Alerts on Email**
