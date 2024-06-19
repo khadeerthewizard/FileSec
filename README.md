@@ -34,7 +34,7 @@ FileSec is a Python-based graphical user interface (GUI) application designed fo
    ```bash
    pip install -r requirements.txt
 
-##Usage
+## Usage
 
 1. **Run Application**
     ```bash
